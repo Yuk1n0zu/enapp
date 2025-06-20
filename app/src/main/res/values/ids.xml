@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="textViewQuestion" type="id">textviewQuestion</item>
+    <item name="textViewAnswer" type="id">textViewAnswer</item>
+</resources>
